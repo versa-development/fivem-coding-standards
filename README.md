@@ -131,7 +131,7 @@ end
 * Resources should be lowercase and split by underscores. All client files must have a `cl_` prefix in the filename & all server files must have a `sv_` prefix in the file name. All filenames must be fully lowercase. 
 * A config folder is used to separate by environment (client, server, shared).
   * Obviously, you do not want to store sensitive data in the client or shared config as the client can access it.
-* We have a [resource template](https://google.co.uk) on our GitHub (fxmanifest data included)
+* We have a [resource template](https://github.com/versa-development/fivem-resource-boilerplate) on our GitHub (fxmanifest data included)
 ```your_resource
  ├── fxmanifest.lua
  ├── client

@@ -7,6 +7,23 @@ If you have suggestions or improvements, feel free to open a Pull Request — we
 
 - [1.0 - Lua Syntax](#10---lua-syntax)
   - [1.1 - Constants](#11---constants)
+  - [1.2 - Variables & Functions](#12---variables--functions)
+  - [1.3 - Spacing](#13---spacing)
+  - [1.4 - Loops](#14---loops)
+  - [1.5 - Semicolons](#15---semicolons)
+- [2.0 - FiveM Development Practices](#20---fivem-development-practices)
+  - [2.1 - Events](#21---events)
+  - [2.2 - Citizen Events](#22---citizen-events)
+  - [2.3 - Exports](#23---exports)
+  - [2.4 - When to use an event vs export](#24---when-to-use-an-event-vs-export)
+  - [2.5 - Client->Server / Server->Client Communication](#25---client-server--server-client-communication)
+  - [2.6 - Server Validation (Protecting against cheaters)](#26---server-validation-protecting-against-cheaters)
+- [3.0 - Documentation & Commenting](#30---documentation--commenting)
+  - [3.1 - Documenting Functions](#31---documenting-functions)
+  - [3.2 - Commenting](#32---commenting)
+- [4.0 - File Structure](#40---file-structure)
+- [5.0 - Error Handling](#50---error-handling)
+
 
 
 ## 1.0 - Lua Syntax

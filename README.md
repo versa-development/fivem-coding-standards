@@ -3,6 +3,12 @@ Lua doesn't really have a widely adopted central coding standard, especially whe
 
 If you have suggestions or improvements, feel free to open a Pull Request — we’d love to see your ideas!
 
+# 📚 Table of Contents
+
+- [1.0 - Lua Syntax](#10---lua-syntax)
+  - [1.1 - Constants](#11---constants)
+
+
 ## 1.0 - Lua Syntax
 ### 1.1 - Constants:
 * When defining a constant, use `UPPER_SNAKE_CASE`. We also make use of the new Lua 5.4 [<const>](https://www.lua.org/manual/5.4/manual.html#3.3.7) keyword.
